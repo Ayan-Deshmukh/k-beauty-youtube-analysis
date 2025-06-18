@@ -25,9 +25,9 @@ This project explores **why Gen Z is so drawn to K-beauty** — by analyzing You
 
 ```bash
 K-Beauty-YouTube-Analysis/
-├── Data.xlsx                           # Contains influencer list & combined comments
+├── Actual_comments.xlsx                           # Contains influencer list & combined comments
 ├── kbeauty_word_frequency_summary.csv # Top words used in comments
-├── script_1_word_analysis.py          # NLP script for word freq & sentiment
+├── script_1_comment_section_analysis.py          # NLP script for word freq & sentiment
 ├── script_2_question_analysis.py      # NLP script for detecting and analyzing questions
 ├── requirements.txt                   # Python dependencies
 ├── Comments_data/                     # Folder with 16 individual comment CSVs
